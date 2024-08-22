@@ -12,7 +12,9 @@ En el repositorio podemos encontrar dos carpetas:
     
     Abra http://localhost:3000 para verlo en su navegador.
 
-    La aplicacion ya esta configurada para enviar y recibir peticiones a la api que se encuentra corriendo en una instanca de AWS.
+    La aplicacion ya esta configurada para enviar peticiones a la api que se encuentra corriendo
+    
+    en una instanca de AWS y posterior recibir datos.
 
 ● server -> api que recibe las peticiones del front y envia solicitudes de informacion a los servidores donde estan corriendo los agentes. Posteriormente devuelve estas consultas.
 
