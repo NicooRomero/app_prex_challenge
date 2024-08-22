@@ -4,7 +4,7 @@ En el repositorio podemos encontrar dos carpetas:
 
 ● app -> aplicacion desarrollada con React
 
-  ● En el directorio del proyecto, puede ejecutar:
+  En el directorio del proyecto, puede ejecutar:
 
     npm install -> para instalar dependencias.
 
@@ -18,7 +18,7 @@ En el repositorio podemos encontrar dos carpetas:
 
 ● server -> api que recibe las peticiones del front y envia solicitudes de informacion a los servidores donde estan corriendo los agentes. Posteriormente devuelve estas consultas.
 
-  ● En el directorio del proyecto, puede ejecutar:
+  En el directorio del proyecto, puede ejecutar:
 
     npm install -> para instalar dependencias.
 
